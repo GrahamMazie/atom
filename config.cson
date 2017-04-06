@@ -1,0 +1,39 @@
+"*":
+  "activate-power-mode":
+    comboMode:
+      activationThreshold: 1
+      opacity: 0
+    particles:
+      colours:
+        fixed: "#4bf926"
+        type: "random"
+      size:
+        max: 6
+        min: 1
+      spawnCount:
+        max: 30
+        min: 15
+    playAudio: {}
+  "atom-beautify":
+    general:
+      _analyticsUserId: "a857d8cc-212a-448d-b069-46ccfe09e3f6"
+    html: {}
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "one-light-ui"
+      "pen-paper-coffee-syntax"
+    ]
+  editor:
+    fontSize: 15
+  "exception-reporting":
+    userId: "7b2410e6-3d7d-4631-bdd7-80be3667861e"
+  "platformio-ide-terminal":
+    style:
+      fontSize: "13"
+      theme: "novel"
+    toggles:
+      runInsertedText: false
+  typewriter: {}
+  welcome:
+    showOnStartup: false
